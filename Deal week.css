@@ -1,0 +1,14 @@
+
+.item {
+    position: relative;
+    z-index:2;
+  
+    
+}
+
+.deal {
+    position: absolute;
+    z-index: 3;
+    top: 38%;
+    right: 68%;
+}
